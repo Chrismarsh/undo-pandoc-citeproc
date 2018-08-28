@@ -1,0 +1,19 @@
+verne1870twenty;;;NormalCitation
+adams1992mostly;see;;NormalCitation
+verne1870twenty;e.g.;;NormalCitation
+adams1992mostly;cf.;or so;NormalCitation
+adams1992mostly;;, page 10;NormalCitation
+verne1870twenty;;, notes 20-25;NormalCitation
+adams1992mostly;;;NormalCitation
+verne1870twenty;;;NormalCitation
+verne1870twenty;;;NormalCitation
+adams1992mostly;;;NormalCitation
+adams1992mostly;see;;NormalCitation
+verne1870twenty;e.g.;;NormalCitation
+adams1992mostly;see;for reference;NormalCitation
+verne1870twenty;e.g.;if available;NormalCitation
+adams1992mostly;;;AuthorInText
+adams1992mostly;;and others;AuthorInText
+adams1992mostly;;page 10;AuthorInText
+verne1870twenty;;;SuppressAuthor
+verne1870twenty;;, page 1;SuppressAuthor
