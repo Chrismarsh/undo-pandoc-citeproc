@@ -1,4 +1,4 @@
-After discussion with @mbroedl [their repo here](https://github.com/mbroedl/invert-pandoc-docx) on this [pandoc-citeproc](https://github.com/jgm/pandoc-citeproc/issues/323) ticket, this attempts to invert the citeproc references so-as to allow for easily converting docx back to markdown.
+After discussion with [@mbroedl](https://github.com/mbroedl/invert-pandoc-docx) on this [pandoc-citeproc](https://github.com/jgm/pandoc-citeproc/issues/323) ticket, this attempts to invert the citeproc references so-as to allow for easily converting docx back to markdown.
 
 This supports a workflow of Markdown -> docx -> Markdown. Often the case when co-authors use docx, but the manuscript is written with md.
 
